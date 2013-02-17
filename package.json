@@ -1,0 +1,19 @@
+{
+  "name": "kataTennis",
+  "version": "0.0.0",
+  "description": "Solution to Kata Tennis in Javascript",
+  "main": "playSet.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "mocha": "~1.8.1",
+    "assert": "~0.4.9"
+  }
+}
